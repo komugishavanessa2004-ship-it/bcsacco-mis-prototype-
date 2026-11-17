@@ -2,7 +2,7 @@
 
 BIT 2102 Management Information Systems and Development, Semester I, November 2026.
 
-Group members: [Name 1], [Name 2], [Name 3]
+Group members: [KOMUGISHA VANESSA ], [GASARO DESIRE], [MANZI BRUCE]
 
 ## What it is
 A browser-based prototype MIS for a village SACCO. It integrates membership, savings, loans, repayments and
